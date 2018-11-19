@@ -1,4 +1,4 @@
-
+// Could you please check out the output for this and mail me the result
 import java.lang.Thread;
 public class test extends Thread {
 public void run()
