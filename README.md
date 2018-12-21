@@ -1,3 +1,3 @@
 # snapcodes
-A tiny applet project in the remembrance of Diwali 2018 celebrations :sparkling:
+A tiny java applet project, treasuring the Diwali 2018 celebrations :boom:
  
